@@ -1,7 +1,7 @@
-# Whip it Up
+# Hurgry Buddy
 ## https://mjanders6.github.io/PantryProject/
 
-Whip it Up helps users find recipes through the Edamam API if the user wants to cook their own food. If the user does not want to cook they can choose to find a restaurant in the city and state of their choice with a given cuisine.
+Hungry Buddy helps users find recipes through the Edamam API if the user wants to cook their own food. If the user does not want to cook they can choose to find a restaurant in the city and state of their choice with a given cuisine.
 
 ## Functionality
 
@@ -29,8 +29,3 @@ Choose the location that sounds good to eat at.
 * **Kayla San Filippo** - [kaylasf](https://github.com/kaylasf)
 * **Summer Basehart** - [summerbasehart](https://github.com/summerbasehart)
 * **Mike Anderson** - [mjanders6](https://github.com/mjanders6)
-
-
-## Acknowledgments
-
-**Whip it Up** - (https://www.youtube.com/watch?v=nOsNxrwPVMQ)
