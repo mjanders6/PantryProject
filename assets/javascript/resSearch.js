@@ -1,6 +1,6 @@
 
 // console.log(target);
-let accessToken = 'pk.eyJ1IjoibWphbmRlcnM2IiwiYSI6ImNqdHRoYnpmbjFicjg0NG80bnJ4OTQ0ejMifQ.EnYDyXKQdBO7A1JaBUMXsQ'
+let accessToken = 'pk.eyJ1IjoibWphbmRlcnM2IiwiYSI6ImNqeXhrZGpqdTB5MTkzbHJvcm5ucHBlYWQifQ.FgC5f0EzLg9MeFb4fcelhw'
 let key = `e424ea0eb9b536ada64c484c74ceee72`
 let coordinates = []
 
