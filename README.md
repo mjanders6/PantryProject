@@ -28,7 +28,10 @@ Choose the location that sounds good to eat at.
 ![Login](/assets/images/Login.png)
 
 ### Food Search
-![Search](/assets/images/Food-Search.png) | ![Search2](/assets/images/Food-Search2.png)
+![Search](/assets/images/Food-Search.png) ![Search2](/assets/images/Food-Search2.png)
+
+### Too Lazy to Cook?
+![Rest-Search](/assets/images/Rest-Search.png) ![Rest-Search2](/assets/images/Rest-Search2.png)
 
 ## Authors
 * **Sarika Goyal** - [soyabeans1000](https://github.com/soyabeans1000)
