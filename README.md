@@ -31,7 +31,7 @@ Choose the location that sounds good to eat at.
 ![Search](/assets/images/Food-Search.png) ![Search2](/assets/images/Food-Search2.png)
 
 ### Too Lazy to Cook?
-![Rest-Search](/assets/images/Rest-Search.png) ![Rest-Search2](/assets/images/Rest-Search2.png)
+![Rest-Search](/assets/images/Rest-search.png) ![Rest-Search2](/assets/images/Rest-Search2.png)
 
 
 ## Authors
