@@ -23,8 +23,14 @@ Choose the location that sounds good to eat at.
 * [Zomato](https://developers.zomato.com/api) - Zomato API to find restaurants 
 * [mapBox](https://www.mapbox.com/) - API to find coordinates
 
-## Authors
+## Screenshots 
+### Login Page
+![Login](/assets/images/Login.png)
 
+### Food Search
+![Search](/assets/images/Food-Search.png) | ![Search2](/assets/images/Food-Search2.png)
+
+## Authors
 * **Sarika Goyal** - [soyabeans1000](https://github.com/soyabeans1000)
 * **Kayla San Filippo** - [kaylasf](https://github.com/kaylasf)
 * **Summer Basehart** - [summerbasehart](https://github.com/summerbasehart)
