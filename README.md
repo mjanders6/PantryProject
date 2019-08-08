@@ -33,6 +33,7 @@ Choose the location that sounds good to eat at.
 ### Too Lazy to Cook?
 ![Rest-Search](/assets/images/Rest-Search.png) ![Rest-Search2](/assets/images/Rest-Search2.png)
 
+
 ## Authors
 * **Sarika Goyal** - [soyabeans1000](https://github.com/soyabeans1000)
 * **Kayla San Filippo** - [kaylasf](https://github.com/kaylasf)
