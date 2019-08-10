@@ -3,7 +3,7 @@
 
 Hungry Buddy helps users find recipes through the Edamam API if the user wants to cook their own food. If the user does not want to cook they can choose to find a restaurant in the city and state of their choice with a given cuisine.
 
-# 2. App Features:
+# 2. App Features
 <ul>
     <li> Restrooms Near Me
     <li> Add a Restroom
@@ -12,7 +12,7 @@ Hungry Buddy helps users find recipes through the Edamam API if the user wants t
     <li> View your Profile
 </ul>
 
-# 3. Technologies used:
+# 3. Technologies used
 <ul>
     <li> Google Maps API
     <li> React
