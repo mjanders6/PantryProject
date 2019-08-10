@@ -5,23 +5,18 @@ Hungry Buddy helps users find recipes through the Edamam API if the user wants t
 
 # 2. App Features
 <ul>
-    <li> Restrooms Near Me
-    <li> Add a Restroom
-    <li> Review a Restroom
-    <li> Like a Restroom
-    <li> View your Profile
+    <li> Locate recipes based on food entries
+    <li> Locate restaurants based on location
 </ul>
 
 # 3. Technologies used
 <ul>
-    <li> Google Maps API
-    <li> React
-    <li> Express
-    <li> Node.js
-    <li> Sequelize
-    <li> SQL Database
-    <li> ReactBootStrap
-    <li> Amazon Web Services (AWS)
+    <li> mapBox API
+    <li> Zomato API
+    <li> Edamam API
+    <li> RESTful API
+    <li> JavaScript
+    <li> HTML/CSS
  </ul>
 
 # 4. Recipe Search
